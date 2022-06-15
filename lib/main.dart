@@ -134,10 +134,10 @@ class _MyHomePageState extends State<MyHomePage> {
                     child: Row(
                       mainAxisAlignment: MainAxisAlignment.center,
                       children: const <Widget>[
-                        Center(
+                        /* Center(
                           child: ImageIcon(
                               AssetImage('assets/images/facebook.png')),
-                        ),
+                        ), */
                         SizedBox(width: 10.0),
                         Center(
                           child: Text('Entrar com facebook',
